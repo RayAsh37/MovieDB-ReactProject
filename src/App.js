@@ -4,7 +4,7 @@ import React from 'react';
 import Header from './components/Header';
 
 //styles
-import {GlobalStyle} from './GlobalStyle.js';
+import {GlobalStyle} from './GlobalStyle';
 
 function App() {
   return (
